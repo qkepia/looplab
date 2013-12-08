@@ -10,6 +10,10 @@
 //  Helper structs and methods for gif2webp tool.
 //
 
+#if _MSC_VER == 1800
+#pragma warning (disable: 4267) // conversion from 'size_t' to 'int', possible loss of data.
+#endif
+
 #include <assert.h>
 #include <stdio.h>
 
