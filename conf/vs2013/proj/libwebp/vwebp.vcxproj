@@ -20,8 +20,8 @@
     <ProjectReference Include="demux.vcxproj">
       <Project>{eb7b6e16-99a0-455f-bef1-70eaef0882cc}</Project>
     </ProjectReference>
-    <ProjectReference Include="libwebp.vcxproj">
-      <Project>{8f8fbcd9-2d5d-4c45-ad32-ae6cb2f59222}</Project>
+    <ProjectReference Include="libwebpdecoder.vcxproj">
+      <Project>{9c4006f6-914d-4fab-bcd0-075e8bd0eaea}</Project>
     </ProjectReference>
     <ProjectReference Include="mux.vcxproj">
       <Project>{d801b28e-c797-41fd-a728-dc250549d13d}</Project>

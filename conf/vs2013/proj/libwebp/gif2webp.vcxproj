@@ -15,7 +15,7 @@
       <Project>{19f19911-a84e-43d8-bb7b-d6ecb1126948}</Project>
     </ProjectReference>
     <ProjectReference Include="libwebp.vcxproj">
-      <Project>{8f8fbcd9-2d5d-4c45-ad32-ae6cb2f59222}</Project>
+      <Project>{ddd4bdd0-6906-4dd0-8d40-fd2f092e8627}</Project>
     </ProjectReference>
     <ProjectReference Include="mux.vcxproj">
       <Project>{d801b28e-c797-41fd-a728-dc250549d13d}</Project>
